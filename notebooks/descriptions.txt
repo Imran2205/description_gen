@@ -1,0 +1,194 @@
+####################Frame 00####################
+There are some sidewalks near in front of you
+At your both side there are buildings
+Beside the left sidewalk a wall comes into view
+Beside the front sidewalk a fence comes into view
+Over the road a traffic light appears at the front
+There are sky and bunch of trees in the horizon
+Beside the far front and front sidewalk there are terrains
+A few persons are at your left
+On your left and front side there are cars on the road
+On your left and front side there are trucks on the road
+On the road a bus becomes visible at the front
+Over the sidewalk there are polegroups at your both side
+####################Frame 01####################
+A sidewalk comes into view at the front
+A sidewalk recedes from view from the left
+A few buildings vanish from sight from your far left and left
+On the road a truck comes into view at the front
+The truck which was at left-front moves slightly toward far left
+A few polegroups are at your left
+From your both side polegroups vanish
+####################Frame 02####################
+On your left and front side there are sidewalks
+A sidewalk vanishes from the front
+Beside the right sidewalk a wall comes into view
+A few terrains are ahead of you
+A few terrains are lost to sight from your far front and front
+The person which was at front moves slightly toward far left
+####################Frame 03####################
+There are some sidewalks near in front of you
+From near front some sidewalks recede from view
+At your both side there are buildings
+From your both side buildings are lost to sight
+A terrain vanishes from the left
+The person which was at front moves slightly closer to right
+A few cars are at your right
+From near front some cars vanish from sight
+The car which was at front moves slightly toward far left
+####################Frame 04####################
+On the road a truck appears at the right
+A truck passes from sight from the left
+The truck which was at far right-right moves slightly closer to right
+####################Frame 05####################
+On your far right and right side there are buildings
+A few buildings are lost to sight from your far right and right
+A few terrains vanish from sight from your far front and front
+On the road a car comes into view at the right
+Few cars from your right are lost to sight
+The car which was at front moves slightly closer to left
+A few polegroups are ahead of you
+A polegroup vanishes from sight from the far front
+####################Frame 06####################
+Beside the right sidewalk a fence comes into view
+A few traffic lights are at your left
+A traffic light is lost to sight from the far front
+Beside the far front and front sidewalk there are terrains
+On your left and right side there are cars on the road
+A car recedes from view from the right
+The car which was at front moves slightly toward far left
+The truck ahead of you moves slightly toward far left
+A few polegroups vanish from ahead of you
+####################Frame 07####################
+On your front and right side there are sidewalks
+A few sidewalks vanish from sight from your front and right
+At your both side there are buildings
+A few buildings recede from view from ahead of you
+Beside the right sidewalk a fence appears
+A fence passes from sight from the right
+A few cars pass from sight from your left and right
+The car which was at far front-front moves slightly toward far left
+The truck which was at far right-right moves slightly toward far left
+A few polegroups are ahead of you
+####################Frame 08####################
+On your front and right side there are sidewalks
+A few sidewalks pass from sight from your front and right
+A few buildings are ahead of you
+A few buildings vanish from sight from ahead of you
+Beside the right sidewalk a fence appears
+Over your far left and left side there are traffic lights on the road
+A few traffic lights vanish from sight from your far left and left
+The car which was at far front-front moves slightly closer to left
+The truck which was at far right-right moves slightly closer to left
+A few polegroups are at your left
+Few polegroups from your left vanish from sight
+####################Frame 09####################
+A sidewalk comes into view at the right
+A building is lost to sight from ahead of you
+Beside the right sidewalk a fence becomes visible
+A fence vanishes from sight from the right
+Over the road a traffic light appears at the far left
+There are sky and bunch of trees in the horizon
+The car ahead of you moves slightly closer to right
+On the road a bus comes into view at the front
+The bus which was at far front-front moves slightly closer to right
+A few polegroups pass from sight from your front and right
+####################Frame 10####################
+On your far left and left side there are sidewalks
+A sidewalk vanishes from sight from the right
+A fence is lost to sight from the right
+A traffic light vanishes from the far left
+A person comes into view at the left
+The person which was at left moves slightly toward far left
+The car ahead of you moves slightly closer to right
+A few trucks are at your right
+From your both side trucks recede from view
+The truck which was at left moves slightly closer to right
+The bus which was at far front-front moves slightly closer to
+The bus which was at far front-front moves slightly toward far left
+Over the sidewalk there are polegroups at your both side
+A polegroup vanishes from sight from the far front
+####################Frame 11####################
+A sidewalk becomes visible at the right
+Few sidewalks from your left pass from sight
+At your both side there are buildings
+From your both side buildings recede from view
+Over your far left and left side there are traffic lights on the road
+Beside the left sidewalk a terrain appears
+The car which was at far front-front moves slightly closer to left
+The bus which was at far front-front moves slightly closer to right
+The bus which was at far front-front moves slightly closer to left
+A few polegroups are ahead of you
+From your both side polegroups recede from view
+####################Frame 12####################
+A few buildings are at your left
+A building recedes from view from the far left
+Beside the right sidewalk a fence appears
+A fence is lost to sight from the front
+Over your far left and left side there are traffic lights on the road
+Few traffic lights from your left recede from view
+A terrain vanishes from sight from the far left
+A few polegroups are at your left
+From your both side polegroups pass from sight
+####################Frame 13####################
+There are some sidewalks near in front of you
+A few sidewalks recede from view from your front and right
+Few buildings from your left vanish from sight
+On the road a car appears at the far front
+A few cars are lost to sight from your front and right
+The car which was at far front-far right moves slightly closer to left
+On your far right and right side there are buss on the road
+The bus which was at far front-front moves slightly toward far left
+A few polegroups recede from view from your far right and right
+####################Frame 14####################
+A sidewalk becomes visible at the left
+A building appears at the far front
+Beside the far left sidewalk a terrain appears
+There are sky and bunch of trees in the horizon
+A truck recedes from view from the front
+The truck ahead of you moves slightly closer to left
+The truck ahead of you moves slightly toward far
+A few buss recede from view from your far right and right
+The bus ahead of you moves slightly toward far right
+The train which was at front-right moves slightly toward far right
+####################Frame 15####################
+A sidewalk appears at the right
+A sidewalk vanishes from sight from the right
+A few buildings vanish from sight from your far front and far right
+Beside the right sidewalk a fence comes into view
+A terrain recedes from view from the far left
+On your far right and right side there are persons
+A few persons vanish from your left and right
+The person which was at right moves slightly toward far right
+On the road a car becomes visible at the right
+The car ahead of you moves slightly toward far
+A truck passes from sight from the front
+The truck ahead of you moves slightly closer to right
+The bus which was at far front-front moves slightly toward far left
+The train which was at front-right moves slightly toward far
+####################Frame 16####################
+A sidewalk becomes visible at the left
+A few sidewalks are lost to sight from your left and right
+A building comes into view at the far front
+Beside the far left sidewalk a terrain comes into view
+There are sky and bunch of trees in the horizon
+The person which was at far right-right moves slightly closer to
+The person which was at far right-right moves slightly closer to right
+On the road a truck appears at the front
+The truck ahead of you moves slightly toward far right
+The bus ahead of you moves slightly toward far right
+The motorcycle which was at front-right moves slightly toward far right
+####################Frame 17####################
+A sidewalk appears at the right
+A sidewalk vanishes from the left
+A building vanishes from sight from the far front
+A terrain recedes from view from the far left
+A person appears at the right
+The person which was at far right-right moves slightly toward far left
+On the road a car appears at the right
+The car ahead of you moves slightly closer to left
+The car ahead of you moves slightly toward far left
+A truck passes from sight from the front
+The truck ahead of you moves slightly closer to left
+The bus ahead of you moves slightly right
+The motorcycle which was at front-right moves slightly toward far right
